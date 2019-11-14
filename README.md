@@ -11,7 +11,7 @@ https://medium.com/@mainakdutta76/gpu-configuration-for-deep-learning-f35a8bf0f5
 
 https://medium.com/@mainakdutta76/differentiable-and-non-differentiable-ops-in-tensorflow-using-only-python-os-module-9b99c61e0856?postPublishedType=initial
 
-#GIT CHEATSHEET
+# GIT CHEATSHEET
 
 https://medium.com/@mainakdutta76/git-cheatsheet-devops-7a3e1a6e5fd6
 
