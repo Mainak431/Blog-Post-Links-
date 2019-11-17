@@ -15,6 +15,9 @@ https://medium.com/@mainakdutta76/differentiable-and-non-differentiable-ops-in-t
 
 https://medium.com/@mainakdutta76/git-cheatsheet-devops-7a3e1a6e5fd6
 
+# BEFORE AND AFTER OF DevOps: A PEEK INTO AGILE DevOps
+https://medium.com/@mainakdutta76/before-and-after-of-devops-a-peek-into-agile-devops-3600c26129ac
+
 
 # Financial Blog
 
